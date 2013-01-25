@@ -1,4 +1,4 @@
 mdlet
 =====
 
-Experiment Markdown Parser
+Experimental Markdown Parser
